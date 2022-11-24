@@ -1,5 +1,6 @@
 ilk github projectim
-asdasd
-asdas
-da
-sd
+salam
+dunya
+java
+oracle
+mysql
